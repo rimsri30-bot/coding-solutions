@@ -112,9 +112,9 @@ Reading stops at the first non-digit character 'w'.
 ## Solution
 
 **Language:** C++  
-**Runtime:** 2 ms (beats 17.53%)  
-**Memory:** 9.1 MB (beats 50.42%)  
-**Submitted:** 2026-10-26T12:19:23.037Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 8.9 MB (beats 96.22%)  
+**Submitted:** 2026-10-26T12:16:13.598Z  
 
 ```cpp
 #include <string>
